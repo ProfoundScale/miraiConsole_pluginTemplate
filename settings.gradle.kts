@@ -1,1 +1,1 @@
-rootProject.name = "mirai-console-Botplugin-ver1"
+rootProject.name = "mirai-console-plugin-ver1"
